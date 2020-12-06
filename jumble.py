@@ -56,13 +56,6 @@ def checkans():
         messagebox.showerror("Error","This is Wrong answer")
         e1.delete(0,END)
 
-
-
-
-
-
-
-
 root = tkinter.Tk()
 root.geometry("400x500+200+200")
 root.title("Jumbbled")
